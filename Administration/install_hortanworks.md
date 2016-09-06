@@ -66,7 +66,7 @@ fi`
 
 2. Download Ambari
   * `cd /etc/yum.repos.d/`
-  * `wget http://public-repo-1.hortonworks.com/ambari/centos6/2.x/updates/2.2.1.0/ambari.repo`
+  * `wget http://public-repo-1.hortonworks.com/ambari/centos6/2.x/updates/2.4.0.1/ambari.repo`
 
 3. Start mysql
   * `mysql -u root -p`, press enter and no password
